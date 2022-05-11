@@ -1,7 +1,9 @@
 # GraphQL3
 Create a new repository GraphQL
 
-testar no postmam
+https://rafaelcruz.azurewebsites.net/2017/02/20/graphql-construindo-graphql-api-em-net/
+
+testar no postman
 
 POST : http://localhost:60064/api/GraphQL
 
